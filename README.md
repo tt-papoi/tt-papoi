@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-papoi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tt-papoi/tt-papoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
