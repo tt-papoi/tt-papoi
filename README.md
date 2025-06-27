@@ -1,17 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tt-papoi/tt-papoi/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tt-papoi/tt-papoi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-# Hi there, I'm Tran Tien 👋  
-**DevOps Engineer @ Masan Group**
+# 👋 Hello, I'm [Your Name]
+### DevOps Engineer @ Masan Group
 
-Automating pipelines, optimizing infrastructure, and bringing seamless CI/CD to life.
+Infrastructure automation | CI/CD pipelines | Kubernetes & Cloud-native solutions
 
+## 🐍 Contribution Snake Animation
 
-## 💡 Fun Animations
+This snake animation visualizes my GitHub activity:
 
-### Snake eating my commit history  
 ```markdown
-<img src="https://raw.githubusercontent.com/tt-papoi/tt-papoi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="github-contribution-grid-snake.svg" />
+</picture>
