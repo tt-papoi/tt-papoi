@@ -1,25 +1,19 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tt-papoi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tt-papoi/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tt-papoi/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<h1 align="center">Hi there, I'm Tran Tien</h1>
 
----
 
-# 👋 Hello, I'm [Your Name]
-### DevOps Engineer @ Masan Group
+# About me :
 
-Infrastructure automation | CI/CD pipelines | Kubernetes & Cloud-native solutions
+# 📊 GitHub Stats:
+<!-- ![BLuBin's github stats](https://github-readme-stats.vercel.app/api?username=BLuBin7&theme=tokyonight&show_icons=true&hide=["issues"])-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLuBin7&theme=tokyonight&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BLuBin7&theme=dark&hide_border=false)
 
-## 🐍 Contribution Snake Animation
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BLuBin7&theme=monokai&no-frame=false&no-bg=false&margin-w=4) -->
 
-This snake animation visualizes my GitHub activity:
+<a href=#><img src="blubin.svg"></a>
 
-```markdown
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="github-contribution-grid-snake.svg" />
-</picture>
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p> -->
